@@ -1,0 +1,5 @@
+Power Point Slide:
+http://www.slideshare.net/TimothyTickle/introduction-to-singlecell-rnaseq
+
+R Exercises:
+http://rpubs.com/timothyltickle/cegs2017
